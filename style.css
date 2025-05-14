@@ -1,8 +1,13 @@
 body {
+  background-image: url('cloud.jpg.jpg');
+  background-size: cover;
+  background-position: center center;
+  background-attachment: fixed;
+  height: 100vh;
+  margin: 0%;
   font-family: Arial, sans-serif;
   text-align: center;
-  background: #e0f7fa;
-  margin: 0;
+  background:color(srgb rgb(241, 21, 21) rgb(121, 255, 121) rgb(42, 42, 201));
   padding: 50px;
 }
 
@@ -10,7 +15,7 @@ body {
   max-width: 400px;
   margin: auto;
   padding: 20px;
-  background: white;
+  background:sky blue;
   border-radius: 10px;
   box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
 }
